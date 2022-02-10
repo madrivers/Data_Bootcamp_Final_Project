@@ -12,12 +12,12 @@ The topic we will explore is the Olympics from 1896 to 2020. We selected the Oly
   2.  Do countries with a typically cold/warm weather climate perform better in the Winter or Summer Olympics.
 
 Jeff:
--Exploring Hiroku 
--load .csv to Hiroku, start
+- Exploring Hiroku 
+- load .csv to Hiroku, start
 
 Rafa:
--continue machine learning model 
--pull graphs up for visualization
+- continue machine learning model 
+- pull graphs up for visualization
 
 Alex:
 - .csvs into Tableau
