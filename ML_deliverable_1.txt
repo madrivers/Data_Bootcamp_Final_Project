@@ -1,0 +1,28 @@
+Preprocess data:
+	feature elimination
+	feature extraction
+
+train test split and scale our dataframe
+
+our target is "medal_type"
+all other columns that are not our target and have not been dropped are our features.
+
+initially we would like to use Random forest as our model
+	some benefits of the random forest method are: 
+	they are robust against overfitting as all of those weak learners are trained on different pieces of the data.
+	Can be used to rank the importance of input variables in a natural way.
+	Can handle thousands of input variables without variable deletion.
+	Are robust to outliers and nonlinear data.
+	Run efficiently on large datasets.
+
+If needed we can also explore different sampling methods if the RandomForest method is not sufficent. These could be over/under/combo ampling methods.
+
+Referring to module 19 a Random Forest is comparable to a Deep Learning model when it comes to tabular data. Which is what we have. 
+
+If random forest does not meet our thresholds for accuracy, we can try boosting the model or moving over to a deep learning model.
+	
+
+
+Side note:
+I think it would also be cool to see a few cluster charts using hierarchical or kmeans, and possibly a few dendograms. 
+

@@ -10,4 +10,19 @@ The chosen communication method will be primarily Slack for ongoing messages and
 The topic we will explore is the Olympics from 1896 to 2020. We selected the Olympics because the dataset was relatively stable, avaialbe and contained enough interesting aspects to motiveate the group.  The source data will primarily come from CSV files that we will clean and load into a PostGres Database that will be eventually hosted on Heroku.  The team will explore two main questions"
   1.  Is there a "Home Court" advantage in the Olympics.  That is to say, does the hosting country typically outperform other countries in the medal count.
   2.  Do countries with a typically cold/warm weather climate perform better in the Winter or Summer Olympics.
+  3.  Is there any correlation in criteria for different medal types?
 
+Jeff:
+- Exploring Hiroku 
+- load .csv to Hiroku, start
+
+Rafa:
+- continue machine learning model 
+- pull graphs up for visualization
+
+Alex:
+- .csvs into Tableau
+- start visualizations
+
+Steph
+- Outline and work on dashboard(Google Slides)
