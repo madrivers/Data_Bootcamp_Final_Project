@@ -11,3 +11,17 @@ The topic we will explore is the Olympics from 1896 to 2020. We selected the Oly
   1.  Is there a "Home Court" advantage in the Olympics.  That is to say, does the hosting country typically outperform other countries in the medal count.
   2.  Do countries with a typically cold/warm weather climate perform better in the Winter or Summer Olympics.
 
+Jeff:
+-Exploring Hiroku 
+-load .csv to Hiroku, start
+
+Rafa:
+-continue machine learning model 
+-pull graphs up for visualization
+
+Alex:
+- .csvs into Tableau
+- start visualizations
+
+Steph
+- Outline and work on dashboard(Google Slides)
