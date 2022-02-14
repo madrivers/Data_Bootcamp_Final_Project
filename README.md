@@ -23,6 +23,8 @@ Rafa:
 Alex:
 - .csvs into Tableau
 - start visualizations
+- [Visualizations to Date](https://public.tableau.com/app/profile/alejandro.rios3687/viz/OlympicMedals_16448609838870/MedalWinnersbyCountry)
+- 
 
 Steph
 - Outline and work on dashboard(Google Slides)
