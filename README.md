@@ -28,3 +28,4 @@ Alex:
 
 Steph
 - Outline and work on dashboard(Google Slides)
+- [Google Slides]  https://docs.google.com/presentation/d/168FBEMDmwE5lw7L3nJ7aSJJ6-uCTfgR4aOTyKj4n_hY/edit?usp=sharing
