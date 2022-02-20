@@ -2,13 +2,13 @@
 
 
 ## Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python. We have chosen Pandas for its versatility & cross-platform functionality.
+Pandas was used to clean the data and perform an exploratory analysis. Further analysis was completed using Python. We have chosen Pandas for its versatility & cross-platform functionality.
 
 ## Database Storage
-Postgres will be our database storage solution. Tentatively, we are exploring using Heroku for deployment.
+Postgres will be our database storage solution. Heroku was considered and discarded. 
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. We'll be breaking down the data into clusters to see if there are commonalities between the various medal winners. We're exploring random forests as a potential candidate, with room to replace with other models if the accuracy becomes a concern.
+SciKitLearn is the Machine Learning library that we used cluster the data followed by a Random Forest Classifier. 
 
 ## Dashboard
-We intend on using Tableau as our dashboard platform, and plan on using Tableau Stories for our presentation. It will be hosted on Heroku.
+Tableau is our dashboard platform with Tableau Stories for our presentation. 
