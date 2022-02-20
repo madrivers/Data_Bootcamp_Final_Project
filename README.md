@@ -5,7 +5,7 @@
 ### Team Details 
 The team consists of 4 members: Stephenie Deming, Rafael Peterson, Jeff Peterman and Alex Rios.
 
-### Communication Protocolshttps://github.com/madrivers/Data_Bootcamp_Final_Project/blob/main/technologies.md)
+### Communication Protocols
 
 The chosen communication method will be primarily Slack for ongoing messages and Zoom for meetings either during classes or other times. In the unlikely event of an un-responsive teammate the group may resort to indivdual phone conversations. 
 Communication of assignments and individual tasks are done during regular class time with check-ins throughout the week via Slack.
