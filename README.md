@@ -17,10 +17,12 @@ The topic we will explore is the Olympics from 1896 to 2020. We selected the Oly
 The source data will primarily come from Kaggle in the form of CSV files that we will clean and load into a PostGres Database that will be eventually hosted on Heroku or AWS.  
 
 ### Project Outline
-The team will explore two main questions
+The team will explore these main questions:
   1.  Is there a "Home Court" advantage in the Olympics.  That is to say, does the hosting country typically outperform other countries in the medal count.
   2.  Do countries with a typically cold/warm weather climate perform better in the Winter or Summer Olympics.
   3.  Is there any correlation in criteria for different medal types?
+
+Time permitting, the group may choose to explore the impact of budget, GDP and other economic metrics to outcomes at the olympics.
 
 ### Other Updates
 Maching Learning Updates are shown in Maching Learning Updates MD File in the GitHub.  They can also be accessed via this link:
