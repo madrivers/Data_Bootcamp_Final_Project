@@ -11,7 +11,7 @@ The chosen communication method will be primarily Slack for ongoing messages and
 Communication of assignments and individual tasks are done during regular class time with check-ins throughout the week via Slack.
 
 ### Topic
-The topic we will explore is the Olympics from 1896 to 2020. We selected the Olympics because the dataset was relatively stable, available and contained enough interesting aspects to motiveate the group.  
+The topic we will explore is the Olympics from 1896 to 2020. We selected the Olympics because the dataset was relatively stable, available and contained enough interesting aspects to motivate the group.  
 
 ### Source Data
 The source data will primarily come from Kaggle in the form of CSV files that we will clean and load into a PostGres Database that will be eventually hosted on Heroku or AWS.  
