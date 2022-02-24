@@ -33,7 +33,7 @@ Technologies Used are listed in the main GitHub page as well or can be accessed 
 
 ### Visualizations
 Tableau was loaded with various data points, in order to graphically show the distribution of medals (overall) by country and also show a time lapse of meedals by country durin the various games.  Visualization data can be seen at: 
-- [Visualizations to Date](https://public.tableau.com/app/profile/alejandro.rios3687/viz/OlympicMedals_16448609838870/MedalWinsbyCountry?publish=yes)
+- [Visualizations to Date](https://public.tableau.com/app/profile/stephenie.strode/viz/OlympicMedals_16456708377600/Story1?publish=yes)
 
 ### Presentation
 Google slides show data to date and a framework for the final presentation.  As work progresses these slides will be updated leading up the final presentation.
