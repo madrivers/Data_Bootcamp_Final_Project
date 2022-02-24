@@ -19,8 +19,7 @@ The source data will primarily come from Kaggle in the form of CSV files that we
 ### Project Outline
 The team will explore these main questions:
   1.  Is there a "Home Court" advantage in the Olympics.  That is to say, does the hosting country typically outperform other countries in the medal count.
-  2.  Do countries with a typically cold/warm weather climate perform better in the Winter or Summer Olympics.
-  3.  Is there any correlation in criteria for different medal types?
+  2.  Is there any correlation in criteria for different medal types?
 
 Time permitting, the group may choose to explore the impact of budget, GDP and other economic metrics to outcomes at the olympics.
 
