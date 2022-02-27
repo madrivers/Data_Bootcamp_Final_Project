@@ -38,4 +38,3 @@ Tableau was loaded with various data points, in order to graphically show the di
 ### Presentation
 Google slides show data to date and a framework for the final presentation.  As work progresses these slides will be updated leading up the final presentation.
 - [Google Slides](https://docs.google.com/presentation/d/168FBEMDmwE5lw7L3nJ7aSJJ6-uCTfgR4aOTyKj4n_hY/edit?usp=sharing)
-- 
