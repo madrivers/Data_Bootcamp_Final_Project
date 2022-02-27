@@ -5,11 +5,6 @@
 ### Team Details 
 The team consists of 4 members: Stephenie Deming, Rafael Peterson, Jeff Peterman and Alex Rios.
 
-### Communication Protocols
-
-The chosen communication method will be primarily Slack for ongoing messages and Zoom for meetings either during classes or other times. In the unlikely event of an un-responsive teammate the group may resort to indivdual phone conversations. 
-Communication of assignments and individual tasks are done during regular class time with check-ins throughout the week via Slack.
-
 ### Topic
 The topic we will explore is the Olympics from 1896 to 2020. We selected the Olympics because the dataset was relatively stable, available and contained enough interesting aspects to motivate the group.  
 
@@ -20,8 +15,7 @@ The source data will primarily come from Kaggle in the form of CSV files that we
 The team will explore these main questions:
   1.  Is there a "Home Court" advantage in the Olympics.  That is to say, does the hosting country typically outperform other countries in the medal count.
   2.  Is there any correlation in criteria for different medal types?
-
-Time permitting, the group may choose to explore the impact of budget, GDP and other economic metrics to outcomes at the olympics.
+  3.  The impact of budget, GDP and other economic metrics to outcomes at the olympics.
 
 ### Other Updates
 Maching Learning Updates are shown in Maching Learning Updates MD File in the GitHub.  They can also be accessed via this link:
