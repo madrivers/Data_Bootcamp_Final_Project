@@ -1,7 +1,5 @@
 # Data_Bootcamp_Final_Project
 
-## Deliverable 1
-
 ### Team Details 
 The team consists of 4 members: Stephenie Deming, Rafael Peterson, Jeff Peterman and Alex Rios.
 
