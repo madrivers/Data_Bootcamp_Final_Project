@@ -6,10 +6,10 @@
 The team consists of 4 members: Stephenie Deming, Rafael Peterson, Jeff Peterman and Alex Rios.
 
 ### Topic
-The topic we will explore is the Olympics from 1896 to 2020. We selected the Olympics because the dataset was relatively stable, available and contained enough interesting aspects to motivate the group.  
+The topic explored is the Olympics from 1896 to 2020. We selected the Olympics because the dataset was relatively stable, available and contained enough interesting aspects to motivate the group.  
 
 ### Source Data
-The source data will primarily come from Kaggle in the form of CSV files that we will clean and load into a PostGres Database that will be eventually hosted on Heroku or AWS.  
+The source data will primarily came from Kaggle in the form of CSV files that were cleaned and loaded PostGres Database that was hosted on AWS.  
 
 ### Project Outline
 The team will explore these main questions:
@@ -30,5 +30,5 @@ Tableau was loaded with various data points, in order to graphically show the di
 - [Additional GDP Visualization](https://public.tableau.com/app/profile/jeff.peterman/viz/group_project_16456744150660/Sheet5?publish=yes)
 
 ### Presentation
-Google slides show data to date and a framework for the final presentation.  As work progresses these slides will be updated leading up the final presentation.
+Google slides show data to date and a framework for the final presentation.
 - [Google Slides](https://docs.google.com/presentation/d/168FBEMDmwE5lw7L3nJ7aSJJ6-uCTfgR4aOTyKj4n_hY/edit?usp=sharing)
