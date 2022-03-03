@@ -7,10 +7,10 @@ The team consists of 4 members: Stephenie Deming, Rafael Peterson, Jeff Peterman
 The topic explored is the Olympics from 1896 to 2020. We selected the Olympics because the dataset was relatively stable, available and contained enough interesting aspects to motivate the group.  
 
 ### Source Data
-The source data will primarily came from Kaggle in the form of CSV files that were cleaned and loaded PostGres Database that was hosted on AWS.  
+The source data primarily came from Kaggle in the form of CSV files that were cleaned and loaded PostGres Database that was hosted on AWS.  
 
 ### Project Outline
-The team will explore these main questions:
+The team explored these main questions:
   1.  Is there a "Home Court" advantage in the Olympics.  That is to say, does the hosting country typically outperform other countries in the medal count.
   2.  Is there any correlation in criteria for different medal types?
   3.  The impact of budget, GDP and other economic metrics to outcomes at the olympics.
